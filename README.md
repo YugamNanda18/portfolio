@@ -4,7 +4,7 @@ This is my personal portfolio website built using *React* and *Tailwind CSS*.
 It showcases my skills, projects, and experience with a clean, modern, and responsive UI.
 
 🔗 *Live Website:*  
-👉 yugamnanda.netlify.app
+👉 https://yugamnanda.netlify.app/
 
 ---
 
