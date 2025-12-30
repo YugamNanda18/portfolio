@@ -2,8 +2,8 @@
   "name": "yugam-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yugamnanda18.github.io/portfolio/",
-  "main": "index.js",
+  "homepage": "https://github.com/YugamNanda18/portfolio",
+ "main": "index.js",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
     "@radix-ui/react-avatar": "^1.1.10",
