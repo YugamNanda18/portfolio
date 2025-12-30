@@ -24,7 +24,7 @@ function App() {
         <meta property="og:title" content="Yugam Nanda - Portfolio" />
         <meta property="og:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://yugamnanda18.github.io/portfolio" />
+        <meta property="og:url" content="https://yugamnanda18.github.io/portfolio/" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Yugam Nanda - Portfolio" />
         <meta name="twitter:description" content="Welcome to my portfolio website. Explore my projects, skills, and professional experience." />
@@ -35,7 +35,7 @@ function App() {
             "@context": "https://schema.org",
             "@type": "Person",
             "name": "Yugam Nanda",
-            "url": "https://yugamnanda18.github.io/portfolio",
+            "url": "https://yugamnanda18.github.io/portfolio/",
             "sameAs": [
               "https://github.com/yugamnanda18",
               "https://www.linkedin.com/in/yugamnanda/",
