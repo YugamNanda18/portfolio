@@ -2,7 +2,7 @@
   "name": "yugam-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/YugamNanda18/portfolio/",
+  "homepage": "https://github.com/yugamnanda18/portfolio/",
  "main": "index.js",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
