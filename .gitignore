@@ -6,8 +6,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-node_modules/
-build/
 dist/
 .cache/
 # Additional Ruby/bundler ignore for when you run: bundle install

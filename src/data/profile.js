@@ -3,7 +3,7 @@ import adityaPic from "../Assets/aditya-kumar-pic.jpeg";
 
   export const profile = {
     name: "Yugam Nanda",
-    titles: ["Software Developer", "Full Stack Developer", "Content Writer"],
+    titles: ["Software Developer", "Full Stack Developer", "Product Engineer"],
     bio: [
       "I build scalable, high-performance web applications with a strong emphasis on clean architecture, performance, and user experience.",
       "From designing intuitive interfaces to developing full-stack solutions, robust APIs, and intelligent workflows, I focus on writing maintainable code that delivers real impact. "                                                                                  

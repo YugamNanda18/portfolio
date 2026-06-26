@@ -2,8 +2,8 @@ export const education = [
   {
     degree: 'Bachelor of Technology in Information Technoloy',
     institution: 'Swami Keshwanad Institute of Technology Managment & Gramothan, Jaipur',
-    period: 'August 2024 - August 2028',
-    extra: 'CGPA: 8.04 ',
+    period: 'August 2025 - August 2028',
+    extra: 'CGPA: 8.0',
   },
   {
     degree: 'Intermediate',
